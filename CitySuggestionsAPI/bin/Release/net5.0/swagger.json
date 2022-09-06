@@ -1,0 +1,93 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "title": "CitySuggestionsAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/Cities": {
+      "get": {
+        "tags": [
+          "Cities"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "id",
+            "type": "integer",
+            "format": "int32"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    },
+    "/api/Suggestions": {
+      "get": {
+        "tags": [
+          "Suggestions"
+        ],
+        "produces": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "parameters": [
+          {
+            "in": "query",
+            "name": "q",
+            "type": "string"
+          },
+          {
+            "in": "query",
+            "name": "latitude",
+            "type": "number",
+            "format": "double"
+          },
+          {
+            "in": "query",
+            "name": "longitude",
+            "type": "number",
+            "format": "double"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/CityDropDownViewModel"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "definitions": {
+    "CityDropDownViewModel": {
+      "type": "object",
+      "properties": {
+        "name": {
+          "type": "string"
+        },
+        "latitude": {
+          "format": "double",
+          "type": "number"
+        },
+        "longitude": {
+          "format": "double",
+          "type": "number"
+        },
+        "score": {
+          "format": "double",
+          "type": "number"
+        }
+      }
+    }
+  }
+}

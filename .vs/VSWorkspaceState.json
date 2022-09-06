@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\CitySuggestionsAPI",
+    "\\CitySuggestionsAPI\\Controllers",
+    "\\CitySuggestionsAPI\\Entities",
+    "\\CitySuggestionsAPI\\obj",
+    "\\CitySuggestionsAPI\\Utilities",
+    "\\data"
+  ],
+  "SelectedNode": "\\CitySuggestionsAPI\\appsettings.json",
+  "PreviewInSolutionExplorer": false
+}

@@ -1,0 +1,14 @@
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CitySuggestionsAPI.exe
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\web.config
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\appsettings.json
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\StaticFiles\cities.tsv
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CitySuggestionsAPI.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CitySuggestionsAPI.deps.json
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CitySuggestionsAPI.runtimeconfig.json
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CitySuggestionsAPI.pdb
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\CsvHelper.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
