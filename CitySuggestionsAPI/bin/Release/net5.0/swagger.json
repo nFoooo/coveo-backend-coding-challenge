@@ -30,11 +30,6 @@
         "tags": [
           "Suggestions"
         ],
-        "produces": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
         "parameters": [
           {
             "in": "query",
@@ -56,36 +51,8 @@
         ],
         "responses": {
           "200": {
-            "description": "Success",
-            "schema": {
-              "type": "array",
-              "items": {
-                "$ref": "#/definitions/CityDropDownViewModel"
-              }
-            }
+            "description": "Success"
           }
-        }
-      }
-    }
-  },
-  "definitions": {
-    "CityDropDownViewModel": {
-      "type": "object",
-      "properties": {
-        "name": {
-          "type": "string"
-        },
-        "latitude": {
-          "format": "double",
-          "type": "number"
-        },
-        "longitude": {
-          "format": "double",
-          "type": "number"
-        },
-        "score": {
-          "format": "double",
-          "type": "number"
         }
       }
     }

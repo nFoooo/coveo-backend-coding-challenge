@@ -113,3 +113,5 @@ D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestio
 D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI Unit Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI Unit Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI Unit Tests\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI Unit Tests\bin\Debug\net5.0\web.config
+D:\JohnWhite\CODING\Coveo-Challenge\coveo-backend-coding-challenge\CitySuggestionsAPI Unit Tests\bin\Debug\net5.0\StaticFiles\cities.tsv

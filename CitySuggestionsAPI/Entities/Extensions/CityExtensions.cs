@@ -9,7 +9,7 @@ namespace CitySuggestionsAPI.Entities.Extensions
         public static void CalculateScore(this City city, double latitude, double longitude)
         {
             double score = Math.Max(1 - CalculateDistance(city.Latitude, city.Longitude, latitude, longitude) / 12756e3, 0);
-            city.Score = Math.Round(score, 4, MidpointRounding.AwayFromZero);
+            city.Score = Math.Round(score, 5, MidpointRounding.AwayFromZero);
         }
         public static CityDropDownViewModel MapToDropDownViewModel(this City city)
         {

@@ -21,7 +21,7 @@ namespace CitySuggestionsAPI_Unit_Tests
         public void CalculateScore()
         {
             montreal.CalculateScore(locustGrove.Latitude, locustGrove.Longitude);
-            Assert.Equal(0.8727, montreal.Score);
+            Assert.Equal(0.87273, montreal.Score);
         }
     }
 }
